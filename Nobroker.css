@@ -186,10 +186,10 @@ body{
 .rent{
     font-weight: bolder;
 }
-/* .buy:active,.rent:active,.commercial:active{
+ .buy:active,.rent:active,.commercial:active{
     color: #fd3752;
     border-bottom: 3px solid #fd3752;
-} */
+} 
 .commercial{
     border: 0.1px solid rgba(128, 128, 128, 0.296);
     border-bottom: 3px solid #fd3752;
